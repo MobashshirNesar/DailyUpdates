@@ -1,0 +1,7 @@
+12/03/24
+Aws Rightsizing Research
+Reading Aws rightsizing documentation and understanding aws calculations
+
+https://www.notion.so/Reference-Links-a5c85c9837e94d56b3f18b55752b2c50
+
+Collected reference from aptio,nops,cast ai
