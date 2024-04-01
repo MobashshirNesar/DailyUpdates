@@ -4,3 +4,6 @@ Worked on Redesigning of Budget Module
 Optimized sapacing,
 Redesigned Table,
 Working on additional features to be added in module
+
+Figma Link 
+https://www.figma.com/file/1ZKiJREJekeEP0UZpOl6EX/Reporting-Module?type=design&node-id=31897%3A86724&mode=design&t=7BwIE0xhyHWvEaSq-1
