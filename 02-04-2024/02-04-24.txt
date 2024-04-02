@@ -1,0 +1,13 @@
+02-04-2024
+
+Research on billing analysis, Metrics analysis,
+analysis of filters in aws billing
+
+
+https://www.aimably.com/aws-invoice-management-software
+https://cloudvisor.co/aws-guides/
+https://cloudvisor.co/blog/aws-billing/
+https://www.youtube.com/watch?v=iGhCmdvydJc
+https://aws.amazon.com/aws-cost-management/aws-billing-conductor/pricing/
+https://files.helpdocs.io/articles/7t1pht3kw0/1539706282220/invoice-generator-page.png
+
