@@ -1,0 +1,17 @@
+03-04-2024
+
+Research on billing analysis and redesigning of Budget Module
+
+https://stripe.com/in/invoicing
+
+https://stripe.com/in/billing/features#saas-and-billing-analytics
+
+https://www.manageengine.com/cloudspend/azure-and-aws-budget.html
+
+https://www.densify.com/docs/WebHelp_Densify_Cloud/Content/Densify_Com/Viewing_Cloud_Optimization_Reports.htm?Highlight=aws%20costing
+
+https://www.densify.com/docs/WebHelp_Densify_Cloud/Content/Densify_Com/Understanding_the_Instance_Details_Report.htm
+
+https://docs.cast.ai/docs/cud-savings-plans-and-reservations
+
+https://www.ibm.com/docs/en/tarm/8.11.0?topic=reference-billing-costs
