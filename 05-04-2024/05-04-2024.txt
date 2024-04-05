@@ -1,0 +1,12 @@
+Worked on rasi labs design system 
+
+Made following components
+
+Alerts
+Calender
+Checkbox
+Tabs
+Switch
+radio buttons
+Input Fileds 
+Search Fields
