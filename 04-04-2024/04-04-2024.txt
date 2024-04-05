@@ -1,0 +1,3 @@
+Worked on Rasi labs Design system
+
+Desided first draft of design system with Buttons, Spacing, Input Fields, Typography and colors
