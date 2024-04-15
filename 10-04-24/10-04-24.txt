@@ -1,0 +1,5 @@
+Completed Research of Billing Analysis in Reporting Module and refer the aws documentation of aws
+
+https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html
+
+https://deeply-crush-8a9.notion.site/Billing-a180023fe6e343e0b23a0a0db4b1c3cf
